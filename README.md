@@ -1,9 +1,9 @@
 ## Hello there! 🙋‍♂️🛸
 
-🔭 Currently working in technical support.
-🌱 Studying Computer Engineering.
-😄 Pronouns: he/him.
-⚡ Fun fact: I love music and I'm a big fan of RPGs.
+🔭 Currently working in technical support.  
+🌱 Studying Computer Engineering.  
+😄 Pronouns: he/him.  
+⚡ Fun fact: I love music and I'm a big fan of RPGs. 
 
 <img height="150em" src= "https://github-readme-stats.vercel.app/api?username=Vitorrso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorrso&layout=compact&langs_count=16&theme=tokyonight"/>
 

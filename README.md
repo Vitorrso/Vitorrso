@@ -1,6 +1,6 @@
 ## Hello there! 🙋‍♂️🛸
 
-🔭 Currently working in technical support.  
+🔭 Currently working in IT technical support.  
 🌱 Studying Computer Engineering.  
 😄 Pronouns: he/him.  
 ⚡ Fun fact: I love music and I'm a big fan of RPGs. 
